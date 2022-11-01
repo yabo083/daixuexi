@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 import os
 import zipfile
 
-path = "D:\Code\daixuexi\photos"
+path = "#####"# 此处填写存照片的文件夹路径
 todaypath = path
 todayfile = path + '.zip'
 
